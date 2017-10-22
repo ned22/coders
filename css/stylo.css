@@ -1,0 +1,39 @@
+
+h1{
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+
+}
+
+hr{
+	margin-left: 0px;
+	width: 130px;
+	height: 5px;
+	color: black;
+	background-color: black;
+
+}
+
+
+div.coder{
+width:250px;
+height:250px;
+float: left;
+margin: 10px;
+
+}
+
+div.coder img {
+	width:100%;
+	height:auto;
+}
+
+	
+
+div.coder p{
+	position: relative;
+	bottom: 50px;
+	color:#fff;
+	text-align:right;
+	font-family: 'Roboto', sans-serif;
+}
